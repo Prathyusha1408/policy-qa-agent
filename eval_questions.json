@@ -1,0 +1,201 @@
+[
+  {
+    "question": "Which imaging tests require prior authorization?",
+    "expected_keywords": [
+      "MRI"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How long does Northwind have to decide a standard prior authorization request?",
+    "expected_keywords": [
+      "7 calendar days"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How quickly is an urgent prior authorization request decided?",
+    "expected_keywords": [
+      "72 hours"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Above what purchase price does durable medical equipment need prior authorization?",
+    "expected_keywords": [
+      "$500"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How soon must a hospital notify Northwind after an emergency admission?",
+    "expected_keywords": [
+      "48 hours"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How many days do I have to appeal a denied prior authorization?",
+    "expected_keywords": [
+      "60"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "When can a member request an external review?",
+    "expected_keywords": [
+      "4 months"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How long is an MRI approval valid?",
+    "expected_keywords": [
+      "60 days"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What is the individual in-network deductible?",
+    "expected_keywords": [
+      "$1,500"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What is the family out-of-pocket maximum?",
+    "expected_keywords": [
+      "$10,000"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How much is a specialist visit copay?",
+    "expected_keywords": [
+      "$50"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "When is the emergency room copay waived?",
+    "expected_keywords": [
+      "admitted"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How many physical therapy visits are covered per year?",
+    "expected_keywords": [
+      "30"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What do members pay for specialty drugs?",
+    "expected_keywords": [
+      "25%",
+      "$200"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What is the deadline to file an out-of-network claim?",
+    "expected_keywords": [
+      "180 days"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Which parent's plan is primary for a child covered under both parents' plans?",
+    "expected_keywords": [
+      "birthday"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Does the plan cover dental implants?",
+    "answerable": false
+  },
+  {
+    "question": "What is the monthly premium for the Silver Plan?",
+    "answerable": false
+  },
+  {
+    "question": "How many vacation days do Northwind employees get?",
+    "answerable": false
+  },
+  {
+    "question": "Who is the CEO of Northwind Health Plan?",
+    "answerable": false
+  },
+  {
+    "question": "How long do I have to dispute a rejected claim, and how long does Northwind take to respond?",
+    "expected_keywords": [
+      "180",
+      "45"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Do specialty drugs need approval first, and what will I pay for each fill?",
+    "expected_keywords": [
+      "prior authorization",
+      "25%",
+      "$200"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How many days do I have to appeal a denied prior authorization compared with a denied claim?",
+    "expected_keywords": [
+      "60",
+      "180"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How long does Northwind take to decide an expedited appeal?",
+    "expected_keywords": [
+      "72 hours"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "My doctor's office submitted a request but left out the clinical notes. What happens next?",
+    "expected_keywords": [
+      "2 business days",
+      "14"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Once I reach my out-of-pocket maximum, what does Northwind pay for covered in-network care?",
+    "expected_keywords": [
+      "100%"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "I was admitted to the hospital through the ER. What must the hospital do, and what is my ER copay?",
+    "expected_keywords": [
+      "48 hours",
+      "waived"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How far ahead of expiration must a provider ask to extend an approval?",
+    "expected_keywords": [
+      "5 business days"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What is the deadline to appeal an external review decision?",
+    "answerable": false
+  },
+  {
+    "question": "Is acupuncture covered under the Silver Plan?",
+    "answerable": false
+  }
+]
